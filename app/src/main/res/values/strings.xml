@@ -13,4 +13,9 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="texto_frase">Não tem cadastro, clique</string>
+    <string name="clique_cadastro">AQUI</string>
+    <string name="radiobutton_ongs">ONGS,ABRIGOS e CUIDADORES</string>
+    <string name="radiobutton_interessados">INTERESSADOS EM ADOTAR</string>
+    <string name="radiobutton_comercial">PARCEIROS e COMERCIAL</string>
 </resources>
